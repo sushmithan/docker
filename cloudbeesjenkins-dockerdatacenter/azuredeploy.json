@@ -36,7 +36,7 @@
     },
     "jenkinsPassword": {
       "type": "securestring",
-      "defaultValue": "",
+      "defaultValue": "Sysgain@1",
       "metadata": {
         "description": "Admin Password for SSH Cloudbees Jenkins related Virtual Machines."
       }
